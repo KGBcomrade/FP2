@@ -1,0 +1,18 @@
+﻿  Draw.cpp
+  Engine.cpp
+C:\Users\German\source\repos\VGGame\VGGame\Engine.cpp(9,52): warning C4244: аргумент: преобразование "T" в "unsigned int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\German\source\repos\VGGame\VGGame\Engine.cpp(9,38): warning C4244: аргумент: преобразование "T" в "unsigned int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  Input.cpp
+  main.cpp
+  Update.cpp
+  Student.cpp
+  Создание кода...
+  VGGame.vcxproj -> C:\Users\German\source\repos\VGGame\Debug\VGGame.exe
